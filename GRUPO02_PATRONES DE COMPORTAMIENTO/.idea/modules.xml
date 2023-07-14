@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Command2/Command2.iml" filepath="$PROJECT_DIR$/Command2/Command2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GRUPO02_PATRONES DE COMPORTAMIENTO.iml" filepath="$PROJECT_DIR$/GRUPO02_PATRONES DE COMPORTAMIENTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iterator/iterator.iml" filepath="$PROJECT_DIR$/iterator/iterator.iml" />
+    </modules>
+  </component>
+</project>
