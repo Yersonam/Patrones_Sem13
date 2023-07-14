@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 PatronFacthoryMethod/01 PatronFacthoryMethod.iml" filepath="$PROJECT_DIR$/01 PatronFacthoryMethod/01 PatronFacthoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 AbstractFactory/02 AbstractFactory.iml" filepath="$PROJECT_DIR$/02 AbstractFactory/02 AbstractFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 Builder/03 Builder.iml" filepath="$PROJECT_DIR$/03 Builder/03 Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GRUPO01_PATRONES CREACIONALES.iml" filepath="$PROJECT_DIR$/GRUPO01_PATRONES CREACIONALES.iml" />
+    </modules>
+  </component>
+</project>
